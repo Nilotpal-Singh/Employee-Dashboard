@@ -136,7 +136,7 @@ This dashboard empowers stakeholders with the tools needed to align workforce st
 
 10. Project Owner
 
-Name: [Your Name]
+Name: Nilotpal Singh
 
 Role: Data Analyst
 
